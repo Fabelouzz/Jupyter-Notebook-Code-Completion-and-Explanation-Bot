@@ -1,0 +1,5 @@
+nbformat
+openai
+python-dotenv
+torch
+torchvision
